@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @soumyabrata2006
 - 👀 I’m interested in machine learning and software development.
-- 🌱 I’m currently learning algorithms, data structures, C++, and Python.
+- 🌱 I’m currently learning algorithms, data structures, Java and JavaScript.
 - 💞️ I’m looking to collaborate on open-source projects related to my studies.
 - 📫 Email: soumyabrata8974@gmail.com
 - 😄 Pronouns: He, his, him
