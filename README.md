@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **soumyabrata8974@gmail.com**
 
-- ⚡ Fun fact **Unlike many senior students, I prefer Django as backend rather than Node.js.**
+- ⚡ Fun fact **Unlike many senior students at Academy of Technology, I prefer Django as backend rather than Node.js.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
