@@ -9,13 +9,11 @@
 
 - 🔭 I’m currently working on [Soumyabrata's Website](https://github.com/soumyabrata23130/soumyabrata-website) and [Soumyabrata's Website Next.js](https://github.com/soumyabrata23130/soumyabrata-website-nextjs)
 
-- 🌱 I’m currently learning **Core Java and Node.js**
+- 🌱 I’m currently learning **Core Java, Next.js, Node.js and React**
 
-- 💬 Ask me about **Django**
+- 💬 Ask me about **CSS, HTML, JavaScript, Next.js and React**
 
 - 📫 How to reach me **soumyabrata8974@gmail.com**
-
-- ⚡ Fun fact **Unlike many senior students at Academy of Technology, I prefer Django as backend rather than Node.js.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
