@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soumyabrata23130" alt="soumyabrata23130" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/soumyabhatta_of" target="blank"><img src="https://img.shields.io/twitter/follow/soumyabhatta_of?logo=twitter&style=for-the-badge" alt="soumyabhatta_of" /></a> </p>
+<p align="left"> <a href="https://twitter.com/soumyabrata2705" target="blank"><img src="https://img.shields.io/twitter/follow/soumyabrata2705?logo=twitter&style=for-the-badge" alt="soumyabrata2705" /></a> </p>
 
 - 🔭 I’m currently working on [Soumyabrata's Website](https://github.com/soumyabrata23130/soumyabrata-website) and [Soumyabrata's Website Next.js](https://github.com/soumyabrata23130/soumyabrata-website-nextjs)
 
@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/soumyabhatta_of" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="soumyabhatta_of" height="30" width="40" /></a>
+<a href="https://twitter.com/soumyabrata2705" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="soumyabrata2705" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/soumyabrata-bhattacharjee-8a3aa5308" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soumyabrata-bhattacharjee-8a3aa5308" height="30" width="40" /></a>
 <a href="https://fb.com/soumyabrata.bhattacharjee.58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="soumyabrata.bhattacharjee.58" height="30" width="40" /></a>
 <a href="https://instagram.com/soumyabrata.06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="soumyabrata.06" height="30" width="40" /></a>
