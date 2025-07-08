@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://x.com/soumyabrata2705" target="blank"><img src="https://img.shields.io/twitter/follow/soumyabrata2705?logo=twitter&style=for-the-badge" alt="soumyabrata2705" /></a> </p>
 
-- 🌱 I’m currently learning **Core Java, Node.js and React**
+- 🌱 I’m currently learning **Core Java and Figma**
 
 - 💬 Ask me about **CSS, HTML, JavaScript and Python**
 
