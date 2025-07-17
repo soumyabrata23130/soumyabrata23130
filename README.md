@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/soumyabrata2705" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/x/x-icon.svg" alt="soumyabrata2705" height="30" width="40" /></a>
+<a href="https://x.com/soumyabrata2705" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/x/x-icon.svg" alt="soumyabrata2705" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/soumyabrata-bhattacharjee-8a3aa5308" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soumyabrata-bhattacharjee-8a3aa5308" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/25692401" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="25692401" height="30" width="40" /></a>
 <a href="https://fb.com/soumyabrata.bhattacharjee.58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="soumyabrata.bhattacharjee.58" height="30" width="40" /></a>
