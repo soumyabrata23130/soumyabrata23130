@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://x.com/soumyabrata2705" target="blank"><img src="https://img.shields.io/twitter/follow/soumyabrata2705?logo=twitter&style=for-the-badge" alt="soumyabrata2705" /></a> </p>
 
-- 🌱 I’m currently learning **Core Java and Figma**
+- 🌱 I’m currently learning **Figma, Java, Python and React**
 
-- 💬 Ask me about **CSS, HTML, JavaScript and Python**
+- 💬 Ask me about **CSS, HTML, JavaScript, Python and React**
 
 - 📫 How to reach me **soumyabrata23130@gmail.com**
 
