@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Figma, Java, Python and React**
 
-- 👨‍💻 All of my projects are available at [https://soumyabrata23130.github.io/soumyabrata-website](https://soumyabrata23130.github.io/soumyabrata-website)
+<!-- - 👨‍💻 All of my projects are available at [https://soumyabrata23130.github.io/soumyabrata-website](https://soumyabrata23130.github.io/soumyabrata-website)
 
-- 📝 I regularly write articles on [https://soumyabrata23130.github.io/blogs](https://soumyabrata23130.github.io/blogs)
+- 📝 I regularly write articles on [https://soumyabrata23130.github.io/blogs](https://soumyabrata23130.github.io/blogs) -->
 
 - 💬 Ask me about **CSS, HTML, JavaScript and Python**
 
