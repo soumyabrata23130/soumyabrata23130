@@ -2,9 +2,7 @@
 Frontend-focused web developer exploring web technologies.
 
 ## Tech Stack
-- HTML
-- CSS
-- JavaScript
+- HTML-CSS-JavaScript (vanilla)
 - React
 - Vite
 
