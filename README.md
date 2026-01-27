@@ -1,6 +1,13 @@
 # Soumyabrata Bhattacharjee
 Frontend-focused web developer exploring web technologies.
 
+## Tech Stack
+- HTML
+- CSS
+- JavaScript
+- React
+- Vite
+
 ## Links
 - [Facebook](https://www.facebook.com/soumyabrata.bhattacharjee.58)
 - [Instagram](https://www.instagram.com/soumyabrata23130)
