@@ -1,8 +1,9 @@
 # Soumyabrata Bhattacharjee
-Frontend-focused web developer exploring web technologies.
+Full-stack web developer exploring web technologies.
 
 ## Tech Stack
 - HTML-CSS-JavaScript (vanilla)
+- Node.js
 - React
 - Vite
 
