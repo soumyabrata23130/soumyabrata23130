@@ -1,14 +1,14 @@
 # Soumyabrata Bhattacharjee
-Full-stack web developer exploring web technologies.
+Full-stack web developer exploring web technologies and DevOps.
+- **Education:** B.Tech in Computer Science and Engineering (batch of 2023–2027)
+- **Email:** soumyabrata23130@gmail.com
 
 ## Tech Stack
-- HTML-CSS-JavaScript (vanilla)
-- Node.js
-- React
-- Vite
+- **Languages:** C, Java, SQL, JavaScript
+- **Tools:** Git, GitHub, Linux, MySQL
+- **Core Concepts:** Data Structures and Algorithms (DSA), Object-Oriented Programming (OOP), Database Management SYstems (DBMS), Computer Networks
+- **Web:** React.js, Node.js, HTML5, CSS3, REST API
 
 ## Links
-- [Facebook](https://www.facebook.com/soumyabrata.bhattacharjee.58)
-- [Instagram](https://www.instagram.com/soumyabrata23130)
 - [LinkedIn](https://www.linkedin.com/in/soumyabrata-bhattacharjee-8a3aa5308)
 - [X](https://x.com/sbrata23130)
