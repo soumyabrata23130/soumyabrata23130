@@ -6,7 +6,7 @@ Full-stack web developer exploring web technologies and DevOps.
 ## Tech Stack
 - **Languages:** C, Java, SQL, JavaScript
 - **Tools:** Git, GitHub, Linux, MySQL
-- **Core Concepts:** Data Structures and Algorithms (DSA), Object-Oriented Programming (OOP), Database Management SYstems (DBMS), Computer Networks
+- **Core Concepts:** DSA, OOP, DBMS, Computer Networks
 - **Web:** React.js, Node.js, HTML5, CSS3, REST API
 
 ## Links
